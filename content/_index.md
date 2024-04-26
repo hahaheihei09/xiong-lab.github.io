@@ -14,6 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
+        
         We are one of twenty-four research laboratories at the **National Engineering Research Center for Information Technology in Agriculture (Nercita)** in Beijing, China. 
   
   - block: collection
