@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-04-24
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Xiong's
+        SHA
         Robotics Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Xiong's Robotics Lab** is a team in National Engineering Research Center of Intelligent Equipment for Agriculture in Beijing, China.
+        We are one of twelve research laboratories at the **National Engineering Research Center of Intelligent Equipment for Agriculture (NERCIE)** in Beijing, China. 
   
   - block: collection
     content:
