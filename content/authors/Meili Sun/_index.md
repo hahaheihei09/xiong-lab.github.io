@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Meili Sun
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Meili
+last_name: Sun
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Meili Sun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Nercita
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

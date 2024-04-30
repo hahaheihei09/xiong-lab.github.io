@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jian Zhao
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jian
+last_name: Zhao
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Jian Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Technician
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Nercita
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

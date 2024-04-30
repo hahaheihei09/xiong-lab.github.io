@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tianlong Sun
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tianlong
+last_name: Sun
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Tianlong Sun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Engineers / Technicians
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

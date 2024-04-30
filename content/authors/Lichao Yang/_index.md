@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lichao Yang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lichao
+last_name: Yang
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Lichao Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

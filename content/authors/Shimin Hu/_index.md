@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shimin Hu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shimin 
+last_name: Hu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Shimin Hu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
