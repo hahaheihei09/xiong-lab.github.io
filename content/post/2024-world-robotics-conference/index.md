@@ -1,5 +1,5 @@
 ---
-title: Showcasing Innovation: Field Rover and LingXtend at the 2024 World Robotics Conference
+title: Showcasing Innovation - Field Rover and LingXtend at the 2024 World Robotics Conference
 
 date: 2024-8-26
 ---
