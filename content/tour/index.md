@@ -18,12 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Assembling robot at the lab
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Assembling the robot at the lab
+        content: 'Working closely as a team!'
         align: left
         background:
           image:
             filename: 2024-01-assemble.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Testing the laser weeding robot at the Precision Agriculture Testing Base in Changping, Beijing.
+        content: 'Continue improving it!'
+        align: left
+        background:
+          image:
+            filename: 2024-07-laser weeding.JPG
             filters:
               brightness: 0.7
           position: center
