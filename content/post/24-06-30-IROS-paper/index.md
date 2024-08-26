@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-We are thrilled to announce that Yang Chen's paper has been accepted for presentation at the International Conference on Intelligent Robots and Systems (IROS) 2024. This paper introduces LingXtend, a novel hybrid six-degree-of-freedom (DoF) robotic arm, specifically designed to overcome the challenges faced by conventional robotic arms in agricultural settings.
+We are thrilled to announce that Yang Chen's paper, titled "Design and Control of a Novel Six-Degree-of-Freedom Hybrid Robotic Arm", has been accepted for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024). This paper introduces LingXtend, a novel hybrid six-degree-of-freedom (DoF) robotic arm, specifically designed to overcome the challenges faced by conventional robotic arms in agricultural settings.
 
 <!--more-->
 
@@ -15,4 +15,4 @@ Inspired by the flexibility and precision of yoga, LingXtend features two indepe
 
 The hybrid arm also boasts a significantly larger workspace—nearly three times the volume of UR3 serial arms and fourteen times that of ABB IRB parallel arms.
 
-Congratulations to Yang Chen on reaching this important milestone in his academic career!
+Congratulations to Mr. Yang Chen on reaching this important milestone in his academic career!
