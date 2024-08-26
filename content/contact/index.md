@@ -9,24 +9,25 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        For general inquiries or specific questions, please send us an email. If you wish to visit our office or discuss a project in detail, please schedule an appointment by emailing or calling us in advance. This helps us ensure that the right person is available to meet with you. Follow us on our social media channels for the latest updates and news from our lab.
+
+      email: yaxiong@nercita.org.cn
+      phone: +8618310862481
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: No. 9 Shuguang Huayuan Middle Road
+        District: Haidian
+        city: Beijing
+       # region: Beijing
+        postcode: '100097'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '39.94388728306'
+        longitude: '116.2873943'
+      directions: Enter Building A and take the stairs to Office A1101 on Floor 11
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Monday to Friday 9:00 to 18:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
