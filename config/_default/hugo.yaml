@@ -18,7 +18,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+show_author_profile: false
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

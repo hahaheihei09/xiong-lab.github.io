@@ -101,6 +101,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+show_author_profile: false
 
 # Extensions
 
