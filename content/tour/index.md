@@ -19,8 +19,8 @@ sections:
           position: right
           color: '#666'
       - title: 
-        content: 'Assembling the robot at the lab Working closely as a team!'
-        align: left
+        content: 'Assembling the robot and working closely as a team!'
+        align: left bottom
         background:
           image:
             filename: 2024-01-assemble.jpg
