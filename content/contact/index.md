@@ -22,9 +22,9 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.94388728306'
-        longitude: '116.2873943'
-      directions: Enter Building A and take the stairs to Office A1101 on Floor 11
+        latitude: '39.94179325778812'
+        longitude: '116.28134653241943'
+      directions: Enter Building A and take the lift to Office A1101 on Floor 11
       office_hours:
         - 'Monday to Friday 9:00 to 18:00'
       #appointment_url: 'https://calendly.com'
