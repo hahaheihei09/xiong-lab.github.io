@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        SHA
+        S-H
         Robotics Lab
       image:
         filename: welcome.jpg
