@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Assembling the robot at the lab
-        content: 'Working closely as a team!'
+      - title: 
+        content: 'Assembling the robot at the lab Working closely as a team!'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Testing the laser weeding robot at the Precision Agriculture Testing Base in Changping, Beijing.
-        content: 'Continue improving it!'
+      - title: 
+        content: 'Testing the laser weeding robot in Changping, Beijing.'
         align: left
         background:
           image:
@@ -38,8 +38,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Testing the spraying robot at ChaoLai Farm in Chaoyang, Beijing.
-        content: 'Making it work properly!'
+      - title: 
+        content: 'Testing the spraying robot in Chaoyang, Beijing.'
         align: right
         background:
           image:
@@ -48,8 +48,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Testing the harvesting robot at ShenLong Farm in Shunyi, Beijing.
-        content: 'First trial!'
+      - title: 
+        content: 'Testing the harvesting robot in Shunyi, Beijing. First trial!'
         align: right
         background:
           image:
@@ -58,8 +58,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Driving the robots to the World Robotics Conference.
-        content: 'We are on the way!'
+      - title: 
+        content: 'Driving the robots to the World Robotics Conference.'
         align: right
         background:
           image:
@@ -68,8 +68,8 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: Testing the spraying robot at a commercial farm in Inner Mongolia.
-        content: 'The robot runs automatically and can save 50% of labor in spraying!'
+      - title: 
+        content: 'The spraying robot runs automatically and can save 50% of labor in spraying!'
         align: left
         background:
           image:
