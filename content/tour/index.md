@@ -20,10 +20,10 @@ sections:
           color: '#666'
       - title: 
         content: 'Assembling the robot and working closely as a team!'
-        align: left bottom
+        align: left
         background:
           image:
-            filename: 2024-01-assemble.jpg
+            filename: 2024-01-assemble2.jpg
             filters:
               brightness: 0.7
           position: center
@@ -90,5 +90,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 1000
+      interval: 3000
 ---
