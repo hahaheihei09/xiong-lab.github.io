@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ya(Bill) Xiong
+title: Ya Xiong
 
 # Full Name (for SEO)
 first_name: Ya
