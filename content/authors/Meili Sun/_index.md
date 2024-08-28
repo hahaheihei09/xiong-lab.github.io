@@ -70,9 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Ph.D. Students
 ---
 
-Meili Sun is a PhD candidate of agricultural engineering from Shihezi University. She research interests include deep learning, machine vision, image processing and agricultural robotics.  
+Meili Sun is a PhD candidate of agricultural engineering from Shihezi University. Her research interests include deep learning, machine vision, image processing and agricultural robotics.  
 
 
