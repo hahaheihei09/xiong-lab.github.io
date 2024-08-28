@@ -1,11 +1,11 @@
 ---
-title: Showcasing Innovation - Field Rover and LingXtend at the 2024 World Robotics Conference
+title: Showcasing Innovation - Field Rover, LingXtend and the spraying robot at the 2024 World Robotics Conference
 date: 2024-08-26
 image:
   focal_point: 'top'
 
 ---
-We are excited to announce that our lab is showcasing two of our latest robotic innovations, the mobile platform 'Field Rover' and the robotic arm 'LingXtend', at the 2024 World Robotics Conference. These agricultural robots have garnered significant attention from visitors across the globe, demonstrating the technology and forward-thinking design that our lab is proud to develop.
+We are excited to announce that our lab is showcasing three of our latest robotic innovations — the mobile platform 'Field Rover,' the robotic arm 'LingXtend,' and the spraying robot — at the 2024 World Robotics Conference. These agricultural robots have garnered significant attention from visitors across the globe, demonstrating the technology and forward-thinking design that our lab is proud to develop.
 
 <!--more-->
 
