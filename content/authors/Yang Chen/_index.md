@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics manipulator design and path planning.
+bio: My research interests include robotic system integration, the design and control of robotic arms and chassis, and motion planning in robotic harvesting and agricultural robotics.
 
 interests:
-  - Robotics Manipulator Design
-  - Path Planning
+  -  Design and Control of  Robotic Arm
+  -  Robotic System Integration
+  -  Motion Planning
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Machinery manufacturing and automation
+      institution: Shanghai university
+      year: 2022-2025
+    - course: BSc in Machinery manufacturing and automation
+      institution: Nanjing Institute of Technology
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'cy_579@163.com'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: /https://github.com/taiyangzhigaung
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +70,5 @@ user_groups:
   - M.Sc. Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yang Chen is a Master's student in Mechanical Engineering from Shanghai University. His research interests include robotic system integration, the design and control of robotic arms and chassis, and motion planning in robotic harvesting and agricultural robotics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
