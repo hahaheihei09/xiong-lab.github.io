@@ -15,7 +15,7 @@ sections:
           - Researchers
           - Engineers / Technicians
           - Ph.D. Students
-          - Master’s Students
+          - M.Sc. Students
           - Administration
           - Visitors
           - Alumni
