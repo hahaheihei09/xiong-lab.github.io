@@ -74,4 +74,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Lühan Zhuang is a current PhD student at Hainan University, majoring in Control Engineering. Her research focuses on artificial intelligence image processing and agricultural robotics.
+Lühan Zhuang is a PhD student at Hainan University, majoring in Control Engineering. Her research focuses on artificial intelligence image processing and agricultural robotics.
