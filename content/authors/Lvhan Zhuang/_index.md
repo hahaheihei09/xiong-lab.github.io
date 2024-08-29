@@ -30,6 +30,9 @@ interests:
   - Computer Vision
   - Robot Control
 
+Projects:
+  - Laser weeding
+  
 education:
   courses:
     - course: PhD in Control Engineering
