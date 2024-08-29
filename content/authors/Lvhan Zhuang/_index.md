@@ -29,9 +29,6 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Robot Control
-
-Projects:
-  - Laser weeding
   
 education:
   courses:
