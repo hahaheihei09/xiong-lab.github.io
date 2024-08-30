@@ -18,9 +18,9 @@ role: M.Sc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: National Engineering Research Center for Information Technology in Agriculture
-    url: ''https://www.nercita.org.cn/index"
-
+  - name: Nercita
+    url: 'https://www.nercita.org.cn/index'
+    
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include target detection and localization, as well as pollination robots.
 
