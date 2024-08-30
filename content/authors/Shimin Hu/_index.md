@@ -30,6 +30,7 @@ interests:
   - Fruit Localization in Robotic Harvesting
 
 education:
+  courses:
     - course: PhD in Control science and engineering
       institution: Nercita & University of Science and Technology Beijing
       year: 2023-Now
