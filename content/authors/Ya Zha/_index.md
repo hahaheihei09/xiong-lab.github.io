@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role:  Assistant Engineers 
+role:  Assistant Engineer
 
 # Organizations/Affiliations
 organizations:
