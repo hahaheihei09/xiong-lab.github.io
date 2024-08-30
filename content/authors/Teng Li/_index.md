@@ -30,13 +30,13 @@ interests:
  
 
 education:
-  - course: MEng in Control Engineering
-      institution: Nercita & University of Science and Technology Beijing
-      year: 2023-Now
-  - course: BSc in Mechanical Engineering
-      institution: Hohai University
-      year: 2019-2023
-
+  courses:
+    - course: MEng in Control Engineering
+        institution: Nercita & University of Science and Technology Beijing
+        year: 2023-Now
+    - course: BSc in Mechanical Engineering
+        institution: Hohai University
+        year: 2019-2023
 # Social/Academic Networking
 # For available icons, see: 
 #   For an email link, M202320838@xs.ustb.edu.cn
