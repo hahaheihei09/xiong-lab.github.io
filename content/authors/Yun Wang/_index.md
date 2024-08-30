@@ -7,9 +7,8 @@ first_name: Yun
 last_name: Wang
 
 # Username (this should match the folder name)
-authors:Yun Wang
-  - 
-
+authors:
+  - Yun Wang
 # Is this the primary user of the site?
 superuser: false
 
@@ -69,5 +68,4 @@ user_groups:
   - M.Sc. Students
 ---
 
-Yun Wang is a mechanical major from the College of Agricultural Engineering, Shanxi Agricultural University. His main research direction is robotics and 3d printing.
-
+Yun Wang is a Master's student in Mechanical Engineering at the College of Agricultural Engineering, Shanxi Agricultural University. His main research areas are robotics and 3D printing.
