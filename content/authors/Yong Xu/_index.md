@@ -32,8 +32,8 @@ interests:
 education:
   courses:
     - course: BSc in Robotics Engineering
-    institution: Shandong jiaotong university
-    year: 2022
+      institution: Shandong Jiaotong University
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
