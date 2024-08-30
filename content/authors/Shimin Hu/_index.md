@@ -30,7 +30,7 @@ interests:
   - Fruit Localization in Robotic Harvesting
 
 education:
-  - course: PhD in Control science and engineering
+    - course: PhD in Control science and engineering
       institution: Nercita & University of Science and Technology Beijing
       year: 2023-Now
     - course: MEng in Instrument and Meter Engineering
@@ -54,9 +54,9 @@ social:
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Meili-Sun
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/Meili-Sun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
