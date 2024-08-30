@@ -15,7 +15,6 @@ sections:
       text: |
         <br>
         
-  #      We are one of twenty-four research laboratories at the **National Engineering Research Center for Information Technology in Agriculture (Nercita)** in Beijing, China. 
         As a laboratory at the **China National Engineering Research Center for Information Technology in Agriculture (Nercita)**, we focus on advancing key technologies and their applications in strawberry harvesting robots, laser weeding robots, and robotic systems for protected tomato cultivation. By leveraging cutting-edge technologies in robotics, artificial intelligence, and horticulture, we aim to overcome technical challenges and develop fully autonomous robotic systems that are practical and beneficial for farmers.
   
   - block: collection
