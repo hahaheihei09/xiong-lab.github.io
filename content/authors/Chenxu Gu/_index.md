@@ -14,13 +14,13 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc Student
+role: M.Sc. Student
 
 # Organizations/Affiliations
 organizations:
   - name: Nercita
     url: 'https://www.nercita.org.cn/index'
-    
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include target detection and localization, as well as pollination robots.
 
@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - M.Sc. Students
 ---
 
 Chenxu Gu is a master's student in Electronic Information at Northwest Normal University. Her research interests include deep learning, machine vision, image processing, and pollination robots
