@@ -1,5 +1,5 @@
 ---
-title: Paper Accepted in IEEE Transactions on AgriFood Electronics: A Fast Path-Planning Method for Continuous Harvesting of Table-Top Grown Strawberries
+title: Paper Accepted in IEEE Transactions on AgriFood Electronics - A Fast Path-Planning Method for Continuous Harvesting of Table-Top Grown Strawberries
 date: 2025-01-09
 image:
   focal_point: 'top'
