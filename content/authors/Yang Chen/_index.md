@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: M.Sc. Students
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Yang Chen is a Master's student in Mechanical Engineering from Shanghai University. His research interests include robotic system integration, the design and control of robotic arms and chassis, and motion planning in robotic harvesting and agricultural robotics.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: M.Sc. Students
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Yuhang Liu is a master student at China Agriculture University. His research focuses on robotic navigation in greenhouses.
