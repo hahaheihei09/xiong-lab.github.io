@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
