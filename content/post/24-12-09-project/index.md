@@ -6,6 +6,7 @@ image:
   size: actual
   #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
 
+---
 
 We are thrilled to announce that the **National Engineering Research Center for Information Technology in Agriculture (Nercita)** has been approved to lead a major project under the **2024 National Key R&D Program**. The project, titled **“Application of Human-Machine-Environment-Agronomy Intelligent Collaborative Models in Unmanned Open-Field Vegetable Scenarios”** (Project No. 2024YFD200800), represents a groundbreaking effort to integrate **large-scale models** into the field of smart agricultural equipment.
 
