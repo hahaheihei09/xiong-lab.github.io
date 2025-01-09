@@ -32,6 +32,6 @@ ILMSA demonstrated superior performance in real-world scenarios, achieving:
 - **69% shorter average path lengths** compared to the LPS algorithm.
 
 ### Conclusion:
-This approach showcases the potential of ILMSA to revolutionize agricultural robotics by significantly enhancing the efficiency and precision of continuous fruit harvesting.
+This approach showcases the potential of ILMSA to enhance the efficiency and precision of continuous fruit harvesting.
 
 We are proud of this achievement and extend our gratitude to all authors and collaborators involved in this research. 
