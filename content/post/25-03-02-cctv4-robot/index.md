@@ -5,7 +5,8 @@ image:
   focal_point: 'top'
   size: actual
 ---
-[![Watch the CCTV-4 Feature Report](content/post/25-03-02-cctv4-robot/featured.jpg)](https://tv.cctv.com/2025/03/02/VIDEPqPA3OfFF6PfjDuQJq4i250302.shtml)  
+
+[![Watch the CCTV-4 Feature Report](/workspaces/xiong-lab.github.io/content/post/25-03-02-cctv4-robot/featured.png)](https://tv.cctv.com/2025/03/02/VIDEPqPA3OfFF6PfjDuQJq4i250302.shtml)  
 *Click the image above to watch the full coverage on CCTV-4.*
 
 During the **2025 National Two Sessions**, CCTV-4's special program **"Two Sessions I Care About"** spotlighted cutting-edge agricultural technologies, featuring the **strawberry harvesting robot** developed by **S-H Robotics Lab**. The robot exemplifies China's progress toward **"high-quality development of agricultural machinery"** as outlined in the 2025 Central Document No. 1.
