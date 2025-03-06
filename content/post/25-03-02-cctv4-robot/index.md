@@ -4,6 +4,7 @@ date: 2025-03-04
 image:
   focal_point: 'top'
   size: actual
+  featured: false  # Disable automatic display of featured image
 ---
 
 [![Watch the CCTV-4 Feature Report](/workspaces/xiong-lab.github.io/content/post/25-03-02-cctv4-robot/featured.png)](https://tv.cctv.com/2025/03/02/VIDEPqPA3OfFF6PfjDuQJq4i250302.shtml)  
