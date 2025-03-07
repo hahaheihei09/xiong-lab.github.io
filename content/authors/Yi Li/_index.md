@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yong Xu
+title: Yi Li
 
 # Full name (for SEO)
-first_name: Yong
-last_name: Xu
+first_name: Yi
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-- Yong Xu
+- Yi Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Technician
+role: Assistant Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +22,20 @@ organizations:
 url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include system Integration, control system development, and agricultural robots.
+bio: My research interests include system Integration, control system development, and robots.
 
 interests:
 - Robot Operating System
-- Embedded Development
-- Agricultural Robotics
+- Software Development
 
 education:
   courses:
-    - course: BSc in Robotics Engineering
-      institution: Shandong Jiaotong University
-      year: 2018-2022
+    - course: BSc in Computer Science and Technology
+      institution: China University of Geosciences (Beijing)
+      year: 2020-2025
+    - course: Associate Degree in Electronic Information Engineering Technology
+      institution: Hebei Institute of Information Science and Technology
+      year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,4 +69,4 @@ user_groups:
 - Engineers / Technicians
 ---
 
-Yong Xu is a technician at Nercita. His research interests include control system development and agricultural robotics. He is currently engaged in the integration of pollination robots.
+Yi Li is a assistant engineer at Nercita. He is currently engaged in the system integration of strawberry-harvesting robots. He previously worked as an IT Technical Support Specialist at GE Healthcare (China) (July 2022 – May 2024) and as a Data Developer at Beijing Tianyu Zhengqing Technology Co., Ltd. (November 2020 – June 2022). Li has contributed to projects involving IoT platforms, AGV robotics, and database optimization. 
