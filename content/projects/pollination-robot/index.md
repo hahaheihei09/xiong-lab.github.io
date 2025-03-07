@@ -2,7 +2,9 @@
 title: "Greenhouse Tomato Pollination Robot"
 date: 2025-05-15
 description: "An autonomous robot for efficient pollination of tomato plants in greenhouses."
-featured_image: "/images/pollination-robot.jpg"
+image:
+  focal_point: 'top'
+  size: actual
 ---
 
 ### Overview
