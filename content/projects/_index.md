@@ -10,25 +10,3 @@ Welcome to the **Ongoing Projects** page of the S-H Robotics Lab. Here, we showc
 <!--more-->
 
 ---
-
-### Strawberry Harvesting Robot (HarvestFlex)
-[Learn More](/projects/strawberry-robot)
-
----
-
-### Laser Weeding Robot (WeedHitter)
-[Learn More](/projects/laser-weeding)
-
----
-
-### Spraying Robots for Tomato
-[Learn More](/projects/spraying-robot)  <!-- Updated URL -->
-
----
-
-### Greenhouse Tomato Pollination Robot
-[Learn More](/projects/pollination-robot)  <!-- Updated URL -->
-
----
-
-Stay tuned for updates on these and other exciting projects!
