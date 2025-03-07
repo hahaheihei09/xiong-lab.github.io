@@ -9,14 +9,14 @@ Welcome to the **Ongoing Projects** page of the S-H Robotics Lab. Here, we showc
 
 ---
 
-### Strawberry Harvesting Robot
+### Strawberry Harvesting Robot (HarvestFlex)
 A fully autonomous robot designed for efficient and low-damage strawberry harvesting. Equipped with AI vision and a patented gripper, it addresses labor shortages in agriculture.
 
 [Learn More](/projects/strawberry-robot)
 
 ---
 
-### Laser Weeding Technology
+### Laser Weeding Robot (WeedHitter)
 Developing precision laser weeding systems to replace traditional chemical and mechanical methods. Our latest research focuses on error compensation trajectories and optimal parameter combinations for efficient weed removal.
 
 [Learn More](/projects/laser-weeding)
