@@ -1,6 +1,6 @@
 ---
 title: "Spraying Robot for Tomato"
-date: 2025-03-06
+date: 2025-03-05
 description: "An AI-powered robot for precise application of water, nutrients, and pesticides."
 image:
   focal_point: 'top'
