@@ -1,6 +1,6 @@
 ---
 title: "Greenhouse Tomato Pollination Robot"
-date: 2025-03-05
+date: 2025-03-07
 description: "An autonomous robot for efficient pollination of tomato plants in greenhouses."
 image:
   focal_point: 'top'

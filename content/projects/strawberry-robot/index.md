@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Harvesting Robot (HarvestFlex)"
-date: 2025-03-05
+date: 2025-03-04
 description: "An autonomous robot designed for efficient and low-damage strawberry harvesting."
 image:
   focal_point: 'top'
