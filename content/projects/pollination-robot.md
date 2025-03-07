@@ -2,7 +2,7 @@
 title: "Greenhouse Tomato Pollination Robot"
 date: 2025-05-15
 description: "An autonomous robot for efficient pollination of tomato plants in greenhouses."
-featured_image: "/workspaces/xiong-lab.github.io/images/pollination-robot.jpg"
+featured_image: "/images/pollination-robot.jpg"
 ---
 
 ### Overview

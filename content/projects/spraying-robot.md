@@ -2,7 +2,7 @@
 title: "Spraying Robot for Tomato"
 date: 2025-05-15
 description: "An AI-powered robot for precise application of water, nutrients, and pesticides."
-featured_image: "/workspaces/xiong-lab.github.io/assets/media/2024-spraying robot.jpg"
+featured_image: "/assets/media/2024-spraying robot.jpg"
 ---
 
 ### Overview
