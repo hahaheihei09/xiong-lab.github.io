@@ -2,7 +2,7 @@
 title: "Laser Weeding Technology"
 date: 2025-03-05
 description: "Precision laser weeding systems for sustainable agriculture."
-featured_image: "assets/media/2024-07-laser weeding.JPG"
+featured_image: "assets/media/laser-weeding.jpg"
 ---
 
 ### Overview
