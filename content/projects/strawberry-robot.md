@@ -2,7 +2,7 @@
 title: "Strawberry Harvesting Robot (HarvestFlex)"
 date: 2025-03-05
 description: "An autonomous robot designed for efficient and low-damage strawberry harvesting."
-featured_image: "assets/media/strawberry-harvesting-robot.jpg"
+featured_image: "/workspaces/xiong-lab.github.io/images/strawberry-harvesting-robot.jpg"
 ---
 
 ### Overview

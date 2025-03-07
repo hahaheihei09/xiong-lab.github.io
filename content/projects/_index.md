@@ -7,6 +7,8 @@ featured_image: "/images/projects-banner.jpg"  # Add a banner image if desired
 
 Welcome to the **Ongoing Projects** page of the S-H Robotics Lab. Here, we showcase our latest research and innovations in robotics and agriculture.
 
+<!--more-->
+
 ---
 
 ### Strawberry Harvesting Robot (HarvestFlex)
