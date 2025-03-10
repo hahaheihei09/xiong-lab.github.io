@@ -1,5 +1,5 @@
 ---
-title: "Laser Weeding Technology"
+title: "Laser Weeding Robot (WeedHitter / 杂草打击者)"
 date: 2025-03-06
 description: "Precision laser weeding systems for sustainable agriculture."
 image:

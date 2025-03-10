@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Chenxu Gu is a master's student in Electronic Information at Northwest Normal University. Her research interests include deep learning, machine vision, image processing, and pollination robots

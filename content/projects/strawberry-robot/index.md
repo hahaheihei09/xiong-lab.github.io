@@ -1,5 +1,5 @@
 ---
-title: "Strawberry Harvesting Robot (HarvestFlex)"
+title: "Strawberry Harvesting Robot (HarvestFlex / 柔采)"
 date: 2025-03-07
 description: "An autonomous robot designed for efficient and low-damage strawberry harvesting."
 image:
