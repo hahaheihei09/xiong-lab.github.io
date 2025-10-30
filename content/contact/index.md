@@ -11,7 +11,7 @@ sections:
       text: |-
         For general inquiries or specific questions, please send us an email. If you wish to visit our office or discuss a project in detail, please schedule an appointment by emailing or calling us in advance. This helps us ensure that the right person is available to meet with you. Follow us on our social media channels for the latest updates and news from our lab.
 
-      email: yaxiong@nercita.org.cn
+      email: caucoexy@hotmail.com
       phone: +8618310862481
       address:
         street: No. 9 Shuguang Huayuan Middle Road
