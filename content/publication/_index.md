@@ -1,7 +1,5 @@
 ---
-title: "Publications"
-date: 2025-06-20
-type: landing
+title: Publications
 ---
 
 # Publications
