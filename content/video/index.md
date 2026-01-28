@@ -38,20 +38,7 @@ Explore our robotics research through video demonstrations, conference presentat
   </div>
 </div>
 
-<!-- Template for adding more videos -->
-<div class="video-card template">
-  <div class="video-thumbnail">
-    <div class="add-video">
-      <span>+</span>
-      <p>Add New Video</p>
-    </div>
-  </div>
-  <div class="video-info">
-    <h3>Your Video Title</h3>
-    <p class="video-meta">Category • Date • Duration</p>
-    <p>Add description here.</p>
-  </div>
-</div>
+
 
 </div>
 
