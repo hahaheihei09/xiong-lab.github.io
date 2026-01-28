@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Ph.D. Students
 ---
 
 Shangru Wu is a M.Sc student in agricultural engineering at Nercita & China Agricultural University. His research interests include computer vision and agricultural robotics. He focuses on developing innovative techniques and algorithms to enhance the capabilities of robots in agricultural settings.
