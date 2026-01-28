@@ -1,6 +1,6 @@
 ---
 title: "Paper on Strawberry Bruise Simulation Accepted by Postharvest Biology and Technology"
-date: 2025-9-25
+date: 2025-09-25
 ---
 
 A paper led by **Zhicheng Hu**, titled "Strawberry bruise susceptibility analysis based on discrete element method coupled with finite element simulation," has been accepted for publication in **Postharvest Biology and Technology**.
