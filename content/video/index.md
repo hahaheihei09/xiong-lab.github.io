@@ -4,8 +4,6 @@ date: 2025-06-20
 layout: video-gallery
 ---
 
-# S-H Robotics Lab Video Gallery
-
 Explore our robotics research through video demonstrations, conference presentations, and field tests.
 
 ---
