@@ -367,33 +367,3 @@ Explore our robotics research through video demonstrations, conference presentat
   }
 }
 </style>
-
-<script>
-// Add interactive functionality
-document.addEventListener('DOMContentLoaded', function() {
-  // Close modal when clicking outside
-  const modals = document.querySelectorAll('.video-modal');
-  modals.forEach(modal => {
-    modal.addEventListener('click', function(e) {
-      if (e.target === this) {
-        window.location.hash = '';
-      }
-    });
-  });
-  
-  // Close modal with Escape key
-  document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') {
-      window.location.hash = '';
-    }
-  });
-  
-  // Template card click handler
-  const templateCard = document.querySelector('.video-card.template');
-  if (templateCard) {
-    templateCard.addEventListener('click', function() {
-      alert('To add a new video:\n1. Get YouTube video ID from URL\n2. Copy video-card template\n3. Update video ID and information\n4. Add corresponding modal section');
-    });
-  }
-});
-</script>
