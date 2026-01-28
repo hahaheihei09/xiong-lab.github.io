@@ -66,13 +66,7 @@ Explore our robotics research through video demonstrations, conference presentat
     </div>
     <div class="video-modal-info">
       <h4>Strawberry Harvesting Robot</h4>
-      <p>This video demonstrates our 3rd-generation strawberry harvesting robot operating in a commercial greenhouse. Key features shown:</p>
-      <ul>
-        <li>Real-time ripe fruit detection with 97% accuracy</li>
-        <li>Low-damage soft-rigid gripper (<3% bruising rate)</li>
-        <li>Autonomous navigation through strawberry rows</li>
-        <li>Continuous harvesting cycle of 6.2 seconds per fruit</li>
-      </ul>
+      <p>This video demonstrates our 3rd-generation strawberry harvesting robot operating in a commercial greenhouse.</p>
     </div>
   </div>
 </div>
@@ -85,14 +79,7 @@ Explore our robotics research through video demonstrations, conference presentat
     </div>
     <div class="video-modal-info">
       <h4>Laser Weeding Robot - WeedHitter</h4>
-      <p>Demonstration of our precision laser weeding system with error compensation technology:</p>
-      <ul>
-        <li>CO₂ laser system with 2mm targeting precision</li>
-        <li>Horizontal error compensation trajectory algorithm</li>
-        <li>Real-time weed recognition using YOLOv8</li>
-        <li>Adjustable spot diameter (1-4mm) for different weed types</li>
-        <li>Weed removal efficiency: 8.11% error for isolated weeds, 10.47% for occluded cases</li>
-      </ul>
+      <p>Demonstration of our precision laser weeding system with error compensation technology.</p>
     </div>
   </div>
 </div>
