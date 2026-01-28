@@ -34,10 +34,23 @@ Explore our robotics research through video demonstrations, conference presentat
   <div class="video-info">
     <h3>Laser Weeding Robot - WeedHitter</h3>
     <p class="video-meta">Precision Agriculture • March 2025 • 4:30</p>
-    <p>High-precision CO₂ laser weeding system with error compensation trajectories and AI-based weed recognition.</p>
+    <p>High-precision laser weeding system with error compensation trajectories and AI-based weed recognition.</p>
   </div>
 </div>
 
+<div class="video-card">
+  <div class="video-thumbnail">
+    <a href="#video3" class="video-popup">
+      <img src="https://img.youtube.com/vi/HQ6BfMei63I/maxresdefault.jpg" alt="Laser Weeding Robot">
+      <div class="play-button">▶</div>
+    </a>
+  </div>
+  <div class="video-info">
+    <h3>Targeted pollination robot</h3>
+    <p class="video-meta">Precision Agriculture • March 2025 • 4:30</p>
+    <p>An innovative multi-arm targeted pollination robot was developed, utilizing multi-directional airflow vibration from multiple arms for pollination.</p>
+  </div>
+</div>
 
 
 </div>
@@ -51,7 +64,7 @@ Explore our robotics research through video demonstrations, conference presentat
     </div>
     <div class="video-modal-info">
       <h4>Strawberry Harvesting Robot</h4>
-      <p>This video demonstrates our 3rd-generation strawberry harvesting robot operating in a commercial greenhouse.</p>
+      <p>This video demonstrates our 2rd-generation strawberry harvesting robot operating in a commercial greenhouse.</p>
     </div>
   </div>
 </div>
@@ -65,6 +78,19 @@ Explore our robotics research through video demonstrations, conference presentat
     <div class="video-modal-info">
       <h4>Laser Weeding Robot - WeedHitter</h4>
       <p>Demonstration of our precision laser weeding system with error compensation technology.</p>
+    </div>
+  </div>
+</div>
+
+<div id="video3" class="video-modal">
+  <div class="modal-content">
+    <a href="#" class="close-modal">&times;</a>
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/HQ6BfMei63I" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-modal-info">
+      <h4>Targeted pollination robot</h4>
+      <p>An innovative multi-arm targeted pollination robot was developed, utilizing multi-directional airflow vibration from multiple arms for pollination.</p>
     </div>
   </div>
 </div>
