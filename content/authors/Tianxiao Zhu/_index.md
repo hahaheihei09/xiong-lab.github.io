@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 
 Tianxiao Zhu is a PhD student in control science and engineering at Nercita & Shanghai university. His research interests include computer Vision,  agricultural robot control and time series prediction. Currently, he is working on optimal picking pose estimation of strawberry in clusters.

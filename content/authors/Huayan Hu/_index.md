@@ -51,7 +51,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Huayan Hu is a master's student focused on the laser weeding project. His work involves interdisciplinary collaboration, combining expertise in engineering, computer science, and agronomy to advance sustainable farming practices.

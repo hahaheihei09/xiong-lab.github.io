@@ -65,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Yun Wang is a Master's student in Mechanical Engineering at the College of Agricultural Engineering, Shanxi Agricultural University. His main research areas are robotics and 3D printing.
