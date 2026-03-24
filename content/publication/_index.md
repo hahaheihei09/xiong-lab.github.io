@@ -51,16 +51,16 @@ Welcome to the publications page of the S-H Robotics Lab. Below you can find our
 1. **Chen, Y., Miao, Z., Ge, Y., Lin, S., Chen, L. and Xiong, Y.** (2024) 'Design and Control of a Novel Six-Degree-of-Freedom Hybrid Robotic Arm', In: *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3597–3604.  
    [DOI ↗](https://doi.org/10.1109/IROS58592.2024.10802044)
 
-2. **Zhen, J., Ge, Y., Zhu, T., Zhao, H. and Xiong, Y.** (2025) 'Online Estimation of Table-Top Grown Strawberry Mass in Field Conditions with Occlusions', In: *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3040–3047.  
+2. **Zhen, J.#, Ge, Y.#, Zhu, T.#, Zhao, H. and Xiong, Y.** (2025) 'Online Estimation of Table-Top Grown Strawberry Mass in Field Conditions with Occlusions', In: *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3040–3047.  
    [DOI ↗](https://doi.org/10.1109/IROS60139.2025.11247282)
 
-3. **Chen, X., Wang, Y., Yang, L., Li, H. and Xiong, Y.** (2026) 'Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities', In: *2026 IEEE International Conference on Robotics and Automation (ICRA)*. Accepted.
+3. **Chen, X.#, Wang, Y.#, Yang, L., Li, H. and Xiong, Y.** (2026) 'Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities', In: *2026 IEEE International Conference on Robotics and Automation (ICRA)*. Accepted.
 
 ---
 
 ## Preprints
 
-1. **Ge, Y., Zhao, Q., Sun, M., Zhao, H. and Xiong, Y.** (2025) 'Occlusion-Aware Harvesting Sequence Planning for Strawberries in Clusters Using Large Language and Vision-Language Models', *SSRN Electronic Journal*.  
+1. **Ge, Y.#, Zhao, Q.#, Sun, M., Zhao, H. and Xiong, Y.** (2025) 'Occlusion-Aware Harvesting Sequence Planning for Strawberries in Clusters Using Large Language and Vision-Language Models', *SSRN Electronic Journal*.  
    [DOI ↗](https://dx.doi.org/10.2139/ssrn.5553835) | [SSRN ↗](https://ssrn.com/abstract=5553835)
 
 2. **Sun, M., Zhao, C., Yang, L., Liu, H., Hu, S. and Xiong, Y.** (2026) 'Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots', *arXiv preprint arXiv:2601.02085*.  
