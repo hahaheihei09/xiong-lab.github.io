@@ -38,11 +38,14 @@ Welcome to the publications page of the S-H Robotics Lab. Below you can find our
 10. **Sun, M., Hu, S., Zhao, C. and Xiong, Y.** (2026) 'Light-resilient visual regression of strawberry ripeness for robotic harvesting', *Computers and Electronics in Agriculture*, 241, p. 111169.  
     [DOI ↗](https://doi.org/10.1016/j.compag.2025.111169)
 
-11. **Zhao, Q., Ge, Y., Zhao, H. and Xiong, Y.** (2026) 'Active Obstacle Separation: Vision-Language Model (VLM) Driven Clearing Decisions for Robotic Harvesting', *Smart Agricultural Technology*.  
-    [DOI ↗](https://dx.doi.org/10.2139/ssrn.5896233)
+11. **Zhao, Q., Ge, Y., Zhao, H. and Xiong, Y.** (2026) 'Active obstacle separation: Vision-language model (VLM) driven clearing decisions for robotic harvesting', *Smart Agricultural Technology*, 14, p. 102037.  
+    [DOI ↗](https://doi.org/10.1016/j.atech.2026.102037)
 
 12. **Zhen, J., Ge, Y., Zhu, T., Zhao, H. and Xiong, Y.** (2026) 'Real-time multi-attribute quality grading of tabletop strawberries under occlusions for harvesting robots', *Smart Agricultural Technology*, 14, p. 101960.  
     [DOI ↗](https://doi.org/10.1016/j.atech.2026.101960)
+
+13. **Sun, M., Zhao, C., Yang, L., Liu, H., Hu, S. and Xiong, Y.** (2026) 'Vision-based early fault diagnosis and self-recovery for strawberry harvesting robots', *Artificial Intelligence in Agriculture*.  
+    [DOI ↗](https://doi.org/10.1016/j.aiia.2026.05.009)
 
 ---
 
@@ -51,22 +54,23 @@ Welcome to the publications page of the S-H Robotics Lab. Below you can find our
 1. **Chen, Y., Miao, Z., Ge, Y., Lin, S., Chen, L. and Xiong, Y.** (2024) 'Design and Control of a Novel Six-Degree-of-Freedom Hybrid Robotic Arm', In: *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3597–3604.  
    [DOI ↗](https://doi.org/10.1109/IROS58592.2024.10802044)
 
-2. **Zhen, J.#, Ge, Y.#, Zhu, T.#, Zhao, H. and Xiong, Y.** (2025) 'Online Estimation of Table-Top Grown Strawberry Mass in Field Conditions with Occlusions', In: *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3040–3047.  
+2. **Zhen, J., Ge, Y., Zhu, T., Zhao, H. and Xiong, Y.** (2025) 'Online Estimation of Table-Top Grown Strawberry Mass in Field Conditions with Occlusions', In: *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 3040–3047.  
    [DOI ↗](https://doi.org/10.1109/IROS60139.2025.11247282)
 
-3. **Chen, X.#, Wang, Y.#, Yang, L., Li, H. and Xiong, Y.** (2026) 'Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities', In: *2026 IEEE International Conference on Robotics and Automation (ICRA)*. Accepted.
+3. **Chen, X., Wang, Y., Yang, L., Li, H. and Xiong, Y.** (2026) 'Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities', In: *2026 IEEE International Conference on Robotics and Automation (ICRA)*. Accepted.
+
+4. **Miao, C., Li, T. and Xiong, Y.** (2026) 'Learning the Full Process of Strawberry Harvesting: A Reinforcement Learning Approach for Obstacle Separation, Detachment, and Placement', In: *2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. Accepted.
+
+5. **Li, T., Shi, H., Zhao, C. and Xiong, Y.** (2026) 'Vision-Based Obstacle Separation for Strawberry Harvesting in Clusters Using Hierarchical Reinforcement Learning', In: *2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. Accepted.
 
 ---
 
-## Preprints
+## Preprints & Working Papers
 
-1. **Ge, Y.#, Zhao, Q.#, Sun, M., Zhao, H. and Xiong, Y.** (2025) 'Occlusion-Aware Harvesting Sequence Planning for Strawberries in Clusters Using Large Language and Vision-Language Models', *SSRN Electronic Journal*.  
+1. **Ge, Y., Zhao, Q., Sun, M., Zhao, H. and Xiong, Y.** (2025) 'Occlusion-Aware Harvesting Sequence Planning for Strawberries in Clusters Using Large Language and Vision-Language Models', *SSRN Electronic Journal*.  
    [DOI ↗](https://dx.doi.org/10.2139/ssrn.5553835) | [SSRN ↗](https://ssrn.com/abstract=5553835)
 
-2. **Sun, M., Zhao, C., Yang, L., Liu, H., Hu, S. and Xiong, Y.** (2026) 'Vision-Based Early Fault Diagnosis and Self-Recovery for Strawberry Harvesting Robots', *arXiv preprint arXiv:2601.02085*.  
-   [arXiv ↗](https://arxiv.org/abs/2601.02085)
-
-3. **Zhao, Z., Wang, S., Miao, Z. and Xiong, Y.** (2026) 'HarvestFlex: Strawberry Harvesting via Vision-Language-Action Policy Adaptation in the Wild', *arXiv preprint arXiv:2603.05982*.  
+2. **Zhao, Z., Wang, S., Miao, Z. and Xiong, Y.** (2026) 'HarvestFlex: Strawberry Harvesting via Vision-Language-Action Policy Adaptation in the Wild', *arXiv preprint arXiv:2603.05982*.  
    [arXiv ↗](https://arxiv.org/abs/2603.05982)
 
 ---
@@ -84,5 +88,5 @@ Welcome to the publications page of the S-H Robotics Lab. Below you can find our
 
 ---
 
-*Last updated: March 2026*  
-*Total: 12 journal articles • 3 conference papers • 3 preprints • 3 US patents*
+*Last updated: July 2026*  
+*Total: 13 journal articles • 5 conference papers • 2 preprints • 3 US patents*
