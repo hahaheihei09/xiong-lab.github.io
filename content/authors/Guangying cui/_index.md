@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Guangying Cui
+title: Xinyue Zhang
 
 # Full name (for SEO)
-first_name: Guangying
-last_name: Cui
+first_name: Xinyue
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-- Guangying Cui
+- Xinyue Zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-    - course: BSc in Human Resource Management
-      institution: Beijing Technology and Business University
-      year: 2020-2024
+    - course: BSc in Management
+      institution: North China University of Technology
+      year: 2018-2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

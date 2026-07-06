@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Defeng Wang is a master student of mechanical engineering from Shihezi University. His research interests include  robot navigation and agricultural robotics.  

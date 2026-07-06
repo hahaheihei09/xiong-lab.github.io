@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Jinshan Zhen is a graduate student at Nercita & Tianjin University of Technology, majoring in electronic information. Her research interests include machine vision, deep learning. Currently, she is working on strawberry grading using deep learning.

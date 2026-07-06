@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Alumni
 ---
 
 Teng Li is a Master's student in Control Engineering from University of Science and Technology Beijing. His research interests include Reinforcement Learning,  and motion planning in robotic harvesting and agricultural robotics.
