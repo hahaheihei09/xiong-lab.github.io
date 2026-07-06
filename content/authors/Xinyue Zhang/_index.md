@@ -22,7 +22,7 @@ organizations:
 url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cui is a detail-oriented professional with a passion for contributing to team success.
+bio: Xinyue is a detail-oriented professional with a passion for contributing to team success.
 
 interests:
 - Human Resource Management
