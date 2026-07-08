@@ -34,7 +34,7 @@ education:
     - course: MEng in Control Engineering
       institution: Nercita & University of Science and Technology Beijing
       year: 2025-Now
-  - course: BSc in Robotics Engineering
+    - course: BSc in Robotics Engineering
       institution: Qingdao University
       year: 2021-2025
 
