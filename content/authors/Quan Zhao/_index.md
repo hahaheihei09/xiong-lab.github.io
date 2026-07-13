@@ -33,7 +33,7 @@ education:
   courses:
     - course: MSc in Electrical Engineering
       institution: Tianjin University of Technology
-      year: 2023-present 
+      year: 2023-2026 
     - course: BSc in Electrical Engineering and Automation
       institution: Jiangsu Ocean University
       year: 2018-2022
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.Sc. Students
+  - Engineers / Technicians
 ---
 
-Quan Zhao is a graduate student at Nercita & Tianjin University of Technology, majoring in electronic engineering. His research interests include LLMs , Motion Planning and Agricultural Robots, he is working on strawberry picking using LLMs.
+Quan Zhao graduated from our lab and now works as a research engineer at Nercita, continuing his work on strawberry harvesting. He received his degree in electronic engineering from Tianjin University of Technology. His research interests include LLMs, motion planning, and agricultural robotics, with a current focus on applying LLMs to strawberry picking.
