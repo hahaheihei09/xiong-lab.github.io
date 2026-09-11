@@ -1,6 +1,8 @@
 ---
 title: "Field Testing Begins for the WeedHitter 2 Laser Weeding Robot"
 date: 2026-09-11
+authors:
+  - Codex
 image:
   focal_point: 'center'
   size: actual
