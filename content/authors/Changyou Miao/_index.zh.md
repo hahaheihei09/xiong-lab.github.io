@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Laser weeding robot, robot navigation, machine vision.
+bio: 主要研究激光除草机器人、机器人导航和机器视觉。
 
 interests:
   - 机器人设计

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robot navigation, machine vision, and LiDAR-inertial-visual SLAM.
+bio: 主要研究机器人导航、机器视觉和激光雷达—惯性—视觉SLAM。
 
 interests:
   - 机器人设计

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio
-bio: My research focuses on agricultural robotics, autonomous navigation, and headland turning path planning for unmanned field machinery.
+bio: 主要研究农业机器人、自主导航及无人农机地头转弯路径规划。
 
 interests:
   - 视觉语言模型

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research includes the design and commissioning of spraying robots, Robot chassis navigation and Robot chassis wiring.
+bio: 主要从事喷雾机器人设计与调试、机器人底盘导航和电气布线。
 
 interests:
   - 喷雾机器人设计

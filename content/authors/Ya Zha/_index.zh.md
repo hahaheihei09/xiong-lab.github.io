@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.nercita.org.cn/index'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ya Za is an assistant engineer at the Nercita S-H Robotics Laboratory. His research interests include robot mechanical design, ROS programming and debugging.
+bio: 主要研究机器人机械设计、ROS程序开发与系统调试。
 
 interests:
   - 机械设计

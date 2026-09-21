@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine vision, camera calibration, fruit localization in robotic harvesting and agricultural robotics.
+bio: 主要研究机器视觉、相机标定、采摘机器人果实定位和农业机器人。
 
 interests:
   - 机器视觉

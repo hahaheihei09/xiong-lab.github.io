@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and agricultural robotics.
+bio: 主要研究计算机视觉和农业机器人。
 
 interests:
   - 计算机视觉

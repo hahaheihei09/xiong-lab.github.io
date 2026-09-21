@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on machine vision for agricultural applications, including deep-learning-based target detection and maturity recognition under complex illumination, as well as the engineering deployment of perception systems for agricultural robots.
+bio: 主要研究农业机器视觉、复杂光照下的目标检测与成熟度识别，以及感知系统工程化部署。
 
 interests:
   - 农业机器视觉

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Agricultural Robotics and programmable matter.
+bio: 主要从事设施园艺大数据分析、设施园艺机器人系统和农业智能装备研究。
 
 interests:
   - 人工智能

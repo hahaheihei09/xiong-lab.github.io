@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shuheng Wang is a master student at the School of Mechanical and Electrical Engineering, Nercita & Shihezi University, majoring in mechanical engineering with a focus on robotics. His research interests include agricultural robots, vision-language-action models, robotic perception, and intelligent manipulation. He is working on VLA-based strawberry harvesting robots, focusing on visual perception, task understanding, and autonomous picking in complex agricultural environments.
+bio: 主要研究农业机器人、视觉—语言—动作模型、机器人感知与智能操作。
 
 interests:
   - 草莓采摘机器人

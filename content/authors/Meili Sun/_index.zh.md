@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, machine vision, image processing and agricultural robotics.
+bio: 主要研究深度学习、机器视觉、图像处理和农业机器人。
 
 interests:
   - 机器视觉

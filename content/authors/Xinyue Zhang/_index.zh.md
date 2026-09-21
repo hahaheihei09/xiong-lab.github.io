@@ -22,7 +22,7 @@ organizations:
 url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xinyue is a detail-oriented professional with a passion for contributing to team success.
+bio: 负责实验室日常管理、项目协调和人力资源相关工作。
 
 interests:
 - 人力资源管理

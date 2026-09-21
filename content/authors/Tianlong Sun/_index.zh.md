@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robot vision development and robotic arm algorithm programming.
+bio: 主要研究机器人视觉开发、机械臂算法和C++软件开发。
 
 
 interests:

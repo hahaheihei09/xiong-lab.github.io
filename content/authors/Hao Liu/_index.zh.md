@@ -22,7 +22,7 @@ organizations:
     url: ''
 ##写到这里了
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Robot System Integration, Robot Architecture Design and Machine Vision.
+bio: 主要研究机器人系统集成、机器人架构设计和机器视觉。
 
 interests:
   - 机器人系统集成

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include LLM , Motion Planning and Agricultural Robots.
+bio: 主要研究大语言模型、运动规划和农业机器人。
 
 interests:
   - 大语言模型

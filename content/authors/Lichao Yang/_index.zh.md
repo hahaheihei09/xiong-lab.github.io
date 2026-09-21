@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structural design, control system development, motion planning, and agricultural robots.
+bio: 主要研究结构设计、控制系统开发、运动规划和农业机器人。
 
 interests:
   - 末端执行器设计

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multimodal large language models,  agricultural artificial intelligence,  and vision-language reasoning for intelligent agricultural decision-making. My current research focuses on developing vision-language models for crop growth assessment and precision agricultural management.
+bio: 主要研究多模态大语言模型、农业人工智能和面向智能农业决策的视觉语言推理。
 
 
 interests:

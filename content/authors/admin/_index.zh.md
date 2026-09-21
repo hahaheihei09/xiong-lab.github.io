@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.nercita.org.cn/index'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include agricultural robotics, manipulator design, computer vision and path planning.
+bio: 主要研究方向包括农业机器人、机械臂设计、计算机视觉和路径规划。
 
 interests:
   - 农业机器人
