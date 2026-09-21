@@ -14,7 +14,7 @@ sections:
       email: caucoexy@hotmail.com
       phone: +8618310862481
       address:
-        street: No. 9 Shuguang Huayuan Middle Road
+        street: No. 128 Zizhuyuan Road
         District: Haidian
         city: Beijing
        # region: Beijing
@@ -24,7 +24,7 @@ sections:
       coordinates:
         latitude: '39.94179325778812'
         longitude: '116.28134653241943'
-      directions: Enter Building A and take the lift to Office A1101 on Floor 11
+      directions: Room 213, Building 1, National Agricultural Internet of Things Engineering Laboratory
       office_hours:
         - 'Monday to Friday 9:00 to 18:00'
       #appointment_url: 'https://calendly.com'

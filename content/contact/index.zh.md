@@ -12,7 +12,7 @@ sections:
       email: caucoexy@hotmail.com
       phone: +8618310862481
       address:
-        street: 曙光花园中路9号
+        street: 紫竹院路128号
         District: 海淀区
         city: 北京市
         postcode: '100097'
@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '39.94179325778812'
         longitude: '116.28134653241943'
-      directions: 进入A座，乘电梯至11层A1101室
+      directions: 国家农业物联网工程实验室1号楼213室
       office_hours:
         - '周一至周五 9:00–18:00'
       autolink: true
