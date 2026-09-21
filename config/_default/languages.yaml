@@ -1,22 +1,37 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageName: English
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  weight: 2
+  title: S-H 农业机器人实验室
+  params:
+    description: 聚焦草莓采摘、激光除草和设施农业机器人的智能农业机器人实验室
+  menu:
+    main:
+      - name: 实验室掠影
+        url: tour
+        weight: 10
+      - name: 新闻
+        url: post
+        weight: 20
+      - name: 团队成员
+        url: people
+        weight: 30
+      - name: 研究项目
+        url: projects
+        weight: 40
+      - name: 视频
+        url: video
+        weight: 45
+      - name: 论文
+        url: publication
+        weight: 50
+      - name: 联系我们
+        url: contact
+        weight: 60
