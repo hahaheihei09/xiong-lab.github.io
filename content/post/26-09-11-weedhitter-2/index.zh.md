@@ -1,5 +1,5 @@
 ---
-title: WeedHitter 2激光除草机器人启动田间测试
+title: "Field Testing Begins for the WeedHitter 2 Laser Weeding Robot"
 date: 2026-09-11
 authors:
   - Codex
@@ -8,16 +8,16 @@ image:
   size: actual
 ---
 
-我们很高兴地宣布，团队已开始对新一代激光除草机器人 **WeedHitter 2** 进行田间测试。
+We are excited to share that our team has begun field testing **WeedHitter 2**, the latest version of our laser weeding robot.
 
-WeedHitter 2采用全新的**模块化设计**，整机形态和系统架构更加接近工业化产品。新的设计有助于提高系统集成、测试、维护和后续升级效率，推动技术从科研样机走向实际农业应用。
+WeedHitter 2 features a new **modular design** that brings the platform closer to an industrial-ready system. The redesigned architecture supports more efficient integration, testing, maintenance, and future upgrades as we continue moving the technology from research prototypes toward practical agricultural deployment.
 
 <!--more-->
 
-![团队在田间测试WeedHitter 2](field-testing.jpg)
+![The team testing WeedHitter 2 in the field](field-testing.jpg)
 
-在机器人研发的同时，我们已在华北地区农田采集并标注了**超过100万份田间数据样本**。这些真实数据涵盖不同作物、杂草、生长阶段和田间环境，为训练和评估机器人的感知系统奠定了坚实基础。
+Alongside the development of the new robot, we have collected and annotated **more than one million field data samples** from farms across North China. This large-scale, real-world dataset captures diverse crops, weeds, growth stages, and field conditions, providing a strong foundation for training and evaluating the robot's perception system.
 
-当前田间试验重点评估新型模块化平台在真实作业条件下的可靠性与系统集成效果。试验结果将为下一阶段研发提供依据，帮助我们进一步打造稳健、可扩展、适用于精准农业的激光除草解决方案。
+Our current field trials are helping us assess the reliability and integration of the new modular platform under realistic operating conditions. The results will guide the next stage of development as we work toward a robust, scalable, and practical laser weeding solution for precision agriculture.
 
-我们将继续分享WeedHitter 2的最新进展。🌱🤖
+We look forward to sharing more progress from WeedHitter 2 soon. 🌱🤖

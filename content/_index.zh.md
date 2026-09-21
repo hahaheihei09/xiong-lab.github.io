@@ -7,8 +7,7 @@ sections:
   - block: hero
     content:
       title: |
-        S-H
-        农业机器人实验室
+        草莓采摘机器人小组
       image:
         filename: welcome.jpg
       text: |

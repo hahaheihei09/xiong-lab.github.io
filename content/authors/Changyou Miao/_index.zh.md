@@ -1,70 +1,19 @@
 ---
-# Display name
-title: Changyou Miao 
-
-# Full name (for SEO)
-first_name: Changyou
-last_name: Miao
-
-# Username (this should match the folder name)
+title: 苗长友
 authors:
-  - Changyou Miao 
-
-# Is this the primary user of the site?
+  - Changyou Miao
 superuser: false
-
-# Role/position
-role: M.Sc. Student
-
-# Organizations/Affiliations
+role: 硕士研究生
 organizations:
-  - name: Nercita & Huazhong Agricultural University
+  - name: 国家农业信息化工程技术研究中心（Nercita）与华中农业大学
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Laser weeding robot, robot navigation, machine vision.
-
+bio: 主要研究激光除草机器人、机器人导航和机器视觉。
 interests:
-  -  Robot Design
-  -  System Integration
-
-education:
-  courses:
-    - course: MSc in Mechanical Engineering
-      institution: Huazhong Agricultural University
-      year: 2024-present
-
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-#   - icon: envelope
-  #   icon_pack: fas
- #    link: 'cy_579@163.com'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
- #   icon_pack: fab
- #   link: /https://github.com/taiyangzhigaung
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - 机器人设计
+  - 系统集成
+  - 激光除草机器人
 user_groups:
   - 硕士研究生
 ---
 
-Changyou Miao  is a graduate student at Nercita & Huazhong Agricultural University, majoring in agricultural machinery equipment engineering. His research interests include robot design and system integration.
+苗长友，华中农业大学机械工程专业硕士研究生。研究方向包括激光除草机器人、机器人设计、导航、机器视觉和系统集成。

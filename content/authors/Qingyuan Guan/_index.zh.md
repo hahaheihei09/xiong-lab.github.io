@@ -1,58 +1,19 @@
 ---
-# Display name
-title: Guan Qingyuan
-
-# Full name
-first_name: Qingyuan
-last_name: Guan
-
-# Username (this should match the folder name)
+title: 管清源
 authors:
   - Guan Qingyuan
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: Master Student
-
-# Organizations/Affiliations
+role: 硕士研究生
 organizations:
-  - name: Nercita & Shandong Agricultural University
+  - name: 国家农业信息化工程技术研究中心（Nercita）与山东农业大学
     url: ''
-
-# Short bio
-bio: My research focuses on agricultural robotics, autonomous navigation, and headland turning path planning for unmanned field machinery.
-
+bio: 主要研究农业机器人、自主导航及无人农机地头转弯路径规划。
 interests:
-  - Vision-Language Models
-  - Path Planning
-  - Autonomous Navigation
-
-education:
-  courses:
-    - course: M.S. in Agricultural Engineering and Information Technology
-      institution: Shandong Agricultural University
-      year: 2025-Now
-    - course: B.S. in Mechanical Design, Manufacturing and Automation
-      institution: Qingdao Binhai University
-      year: 2023-2025
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:mxu93067@gmail.com'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Guanqingyuan
-
-# Enter email to display Gravatar
-email: ''
-
-# Organizational groups that you belong to
+  - 视觉语言模型
+  - 路径规划
+  - 自主导航
 user_groups:
   - 硕士研究生
 ---
 
-Guan Qingyuan is a master student at the Information Technology Research Center, Shandong Agricultural University, majoring in agricultural engineering and information technology. His research interests include autonomous agricultural machinery, path planning, and vision-language models. He is working on headland turning path planning and row-alignment control for unmanned agricultural vehicles in complex open-field vegetable production scenarios.
+管清源，山东农业大学农业工程与信息技术专业硕士研究生。研究方向包括自主农业机械、路径规划和视觉语言模型，目前开展复杂露地蔬菜生产场景下无人农机地头转弯路径规划与对行控制研究。
