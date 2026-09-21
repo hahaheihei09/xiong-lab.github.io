@@ -9,7 +9,7 @@ zh:
   languageCode: zh-Hans
   languageName: 中文
   weight: 2
-  title: S-H 农业机器人实验室
+  title: 草莓采摘机器人小组
   params:
     description: 聚焦草莓采摘、激光除草和设施农业机器人的智能农业机器人实验室
   menu:
@@ -29,7 +29,7 @@ zh:
       - name: 视频
         url: video
         weight: 45
-      - name: 论文
+      - name: 学术发表
         url: publication
         weight: 50
       - name: 联系我们

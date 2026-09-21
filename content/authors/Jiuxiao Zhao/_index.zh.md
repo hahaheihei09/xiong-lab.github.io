@@ -1,63 +1,19 @@
 ---
-# Display name
-title: Jiuxiao Zhao
-
-# Full name (for SEO)
-first_name: Jiuxiao
-last_name: Zhao
-
-# Username (this should match the folder name)
+title: 赵九霄
 authors:
   - jiuxiao zhao
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: Engineer
-
-# Organizations/Affiliations
+role: 工程师
 organizations:
-  - name: Nercita
+  - name: 国家农业信息化工程技术研究中心（Nercita）
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research focuses on machine vision for agricultural applications, including deep-learning-based target detection and maturity recognition under complex illumination, as well as the engineering deployment of perception systems for agricultural robots.
-
+bio: 主要研究农业机器人的机器视觉、复杂光照条件下的目标检测与成熟度识别，以及感知系统工程化部署。
 interests:
-  - Machine Vision for Agricultural Applications
-  - Deep Learning-based Object Detection
-  - Fruit Maturity Recognition
-
-education:
-  courses:
-    - course: Part-time PhD Candidate
-      institution: School of Mechanical and Energy Engineering, Beijing University of Technology
-      year: Present
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# Add valid personal links below when available.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:your-email@example.com'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/
-
-# Enter email to display Gravatar (if Gravatar is enabled in the site configuration)
-email: ''
-
-# Organizational groups that you belong to (for the People widget)
-# This value should match the group names used by the website.
+  - 农业机器视觉
+  - 深度学习目标检测
+  - 果实成熟度识别
 user_groups:
   - 工程师 / 技术人员
 ---
 
-Jiuxiao Zhao is an agronomist and a part-time PhD candidate at the School of Mechanical and Energy Engineering, Beijing University of Technology.
-
-His research focuses on machine vision for agricultural applications, including deep-learning-based object detection, fruit maturity recognition under complex illumination, and the engineering deployment of agricultural robot perception systems. His achievements have been selected for the China Association for Science and Technology’s achievement transformation database. He has published six papers as first or corresponding author, participated in 13 patent applications, obtained nine software copyrights, and led or contributed to more than ten national, provincial, ministerial, and institutional research projects.
+赵九霄，农艺师、北京工业大学机械与能源工程学院在读博士。研究聚焦农业机器视觉、深度学习目标检测、复杂光照条件下的果实成熟度识别及农业机器人感知系统工程化部署。相关成果入选中国科协科技成果转化数据库；以第一作者或通讯作者发表论文6篇，参与专利申请13项、获得软件著作权9项，并主持或参与多项科研项目。

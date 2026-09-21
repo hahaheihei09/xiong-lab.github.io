@@ -1,71 +1,19 @@
 ---
-# Display name
-title: Tianlong Sun
-
-# Full name (for SEO)
-first_name: Tianlong
-last_name: Sun
-
-# Username (this should match the folder name)
+title: 孙添龙
 authors:
   - Tianlong Sun
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: Engineer
-
-# Organizations/Affiliations
+role: 工程师
 organizations:
-  - name: Nercita
+  - name: 国家农业信息化工程技术研究中心（Nercita）
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include robot vision development and robotic arm algorithm programming.
-
-
+bio: 主要研究机器人视觉开发、机械臂算法和C++软件开发。
 interests:
-  - Artificial Intelligence
-  - Machine Vision
-  - C++ software development
-
-education:
-  courses:
-    - course: BSc in Computer Science and Technology
-      institution: Gengdan College, Beijing University of Technology
-      year: 2020
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-#  - icon: envelope
-#    icon_pack: fas
- #   link: 'mailto:test@example.org'
-#  - icon: twitter
- #   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-##    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - 人工智能
+  - 机器视觉
+  - C++软件开发
 user_groups:
   - 工程师 / 技术人员
 ---
 
-Tianlong Sun works at Nercita, and his main research interests include robot vision and C++ programming. He is mainly engaged in the deployment of agricultural robots and project management.
+孙添龙，工程师，主要从事机器人视觉、机械臂算法程序开发、农业机器人部署和项目管理工作。
