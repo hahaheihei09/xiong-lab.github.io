@@ -1,5 +1,5 @@
 ---
-title: "课题组赴新疆和硕开展辣椒收获多机协同调度现场测试"
+title: "Our Team Tests Multi-Machine Coordination for Chili Harvesting in Xinjiang"
 date: 2026-09-25
 authors:
   - Codex
@@ -8,36 +8,36 @@ image:
   size: actual
 ---
 
-9月20日至21日，我们课题组赴新疆巴州和硕县，参加**2026新疆（巴州·和硕）加工辣椒产业发展大会暨产销对接会**，并在和硕县苏哈特乡辣椒生产基地开展多机协同调度系统现场测试。
+From September 20 to 21, our team traveled to Heshuo County in Bayingolin, Xinjiang, to attend the **2026 Xinjiang (Bayingolin–Heshuo) Processing Chili Industry Development Conference and Production–Sales Matchmaking Event**. During the visit, we conducted field tests of our multi-machine coordination system at a chili production base in Suhate Township.
 
-本次测试是国家重点研发计划“工厂化农业关键技术与智能农机装备”重点专项现场观摩与测试活动的重要组成部分。围绕露地蔬菜生产中的农机协同作业需求，我们重点验证了云—边—端协同调度方法在真实辣椒收获场景下的可行性与应用效果。
+The tests formed part of an on-site demonstration and evaluation for the National Key R&D Program project on key technologies and intelligent machinery for industrialized agriculture. Focusing on coordinated machinery operations in open-field vegetable production, we evaluated the feasibility and performance of our cloud–edge–device scheduling approach under real chili-harvesting conditions.
 
 <!--more-->
 
-## 用驾驶员手机连接农机作业
+## Connecting Agricultural Machines Through Drivers' Phones
 
-目前，大多数农业机械仍由驾驶员操作，不同农机之间主要依靠人工沟通和经验配合。传统智能调度方案通常需要为农机加装通信与控制设备，部署成本高，也难以快速应用于现有机具。
+Most agricultural machines are still operated manually, and coordination between machines largely depends on verbal communication and driver experience. Conventional intelligent scheduling solutions often require additional communication and control equipment to be installed on each machine, increasing deployment costs and making rapid adoption difficult.
 
-针对这一问题，我们提出以**驾驶员手机作为任务交互终端**：调度系统在云端生成作业任务，并将任务直接下发至驾驶员手机；驾驶员按照系统指令完成收获、运输和转场等操作。该方法无需改装农机或安装额外设备，可在现有人工驾驶农机上实现**零新增硬件成本部署**。
+To address this challenge, we use the **driver's smartphone as the task interface**. The scheduling system generates assignments in the cloud and sends them directly to each driver's phone. Drivers then follow the instructions to perform harvesting, transport, and relocation tasks. The method works with existing manually driven machines and requires **no additional onboard hardware**.
 
-![辣椒生产基地多机协同作业现场俯拍](multi-machine-test.jpg)
+![Aerial view of coordinated machinery operations at the chili production base](multi-machine-test.jpg)
 
-## 4台农机完成真实场景测试
+## Four Machines Tested Under Real Field Conditions
 
-现场测试由**2台辣椒收获机和2台运输机**协同完成。系统根据收获进度、车辆位置和运输需求动态分配任务，并通过驾驶员手机协调收获机与运输机之间的衔接。
+The field trial involved **two chili harvesters and two transport vehicles**. Based on harvesting progress, vehicle locations, and transport demand, the system dynamically assigned tasks and coordinated the connection between harvesting and transport operations through the drivers' phones.
 
-实测结果表明，与传统人工调度方式相比，云—边—端协同调度系统可：
+Compared with conventional manual scheduling, the cloud–edge–device coordination system achieved:
 
-- **节约农机作业时间30%以上**；
-- **降低能耗11%**；
-- 无需增加车载设备，降低智能化改造和推广成本。
+- **more than 30% savings in machinery operating time**;
+- an **11% reduction in energy consumption**; and
+- deployment without additional onboard equipment, reducing the cost of intelligent retrofitting and adoption.
 
-这次测试不仅验证了系统在真实生产环境中的稳定性，也说明低成本数字化调度可以在不改变现有农机驾驶方式的前提下，提高多机协同效率。
+The trial demonstrated the system's stability in a real production environment. It also showed that low-cost digital scheduling can improve multi-machine coordination without changing how existing machinery is driven.
 
-## 让“大模型”更贴近露地蔬菜生产
+## Bringing Agricultural Foundation Models Closer to Open-Field Production
 
-活动期间，露地蔬菜“大模型”项目团队集中展示了人工智能在农机农艺适配、水肥药精量管理和智能农机装备等方面的最新进展。项目负责人、课题组负责人**熊亚研究员**在现场介绍了“大模型”技术赋能露地蔬菜生产的研究思路与应用成果。
+During the event, the open-field vegetable foundation-model project team presented recent progress in applying artificial intelligence to machinery–agronomy adaptation, precise management of water, fertilizer, and pesticides, and intelligent agricultural equipment. **Professor Ya Xiong**, project leader and head of our research team, introduced the team's approach and results in using foundation models to support open-field vegetable production.
 
-项目团队研发的多机具复合挂配稳态系统提升了耕深和播深控制稳定性，使作物在幼苗期和采收期保持更加一致的长势；相关技术将甘蓝和加工辣椒全自动移栽率分别提高到**90%和95%以上**，并支持甘蓝、白萝卜和加工辣椒的无人化采收，可分别节省甘蓝人工成本约**400元/亩**、白萝卜人工成本**700元/亩以上**。
+The project's independently developed steady-state system for mounting multiple implements improved the consistency of tillage-depth and planting-depth control, helping crops maintain more uniform growth from the seedling stage through harvest. Related technologies increased fully automated transplanting rates to **over 90% for cabbage and over 95% for processing chili**. They also enabled unmanned harvesting of cabbage, white radish, and processing chili, reducing labor costs by approximately **CNY 400 per mu for cabbage** and **more than CNY 700 per mu for white radish**.
 
-对我们课题组而言，新疆现场测试是把算法从实验环境带到实际生产场景的重要一步。接下来，我们将继续围绕多机协同调度、农业大模型与智能农机融合开展研究，提升系统对复杂作业条件的适应能力，为露地蔬菜生产提供更实用、更低成本的智能化解决方案。
+For our team, the Xinjiang field trial was an important step in moving scheduling algorithms from controlled experiments into real agricultural production. We will continue studying multi-machine coordination, agricultural foundation models, and their integration with intelligent machinery to improve adaptability under complex operating conditions and deliver practical, lower-cost solutions for open-field vegetable production.
