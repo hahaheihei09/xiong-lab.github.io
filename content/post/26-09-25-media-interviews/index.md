@@ -14,10 +14,6 @@ The coverage reflects growing public interest in how artificial intelligence and
 
 <!--more-->
 
-![NOS Nieuwsuur correspondent Laura van Megen reporting from our strawberry harvesting robot laboratory](featured.jpg)
-
-*NOS Nieuwsuur correspondent Laura van Megen reporting from our strawberry harvesting robot laboratory.*
-
 ## Recent Media Coverage
 
 - **September 11 — China Food Newspaper:** [Strawberry harvesting robots and foundation models for open-field vegetables](https://www.cnfood.cn/article?id=2098331593848492033)
