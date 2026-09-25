@@ -14,10 +14,6 @@ image:
 
 <!--more-->
 
-![荷兰NOS Nieuwsuur驻华记者Laura van Megen在我们的草莓采摘机器人实验室进行报道](featured.jpg)
-
-*荷兰NOS Nieuwsuur驻华记者Laura van Megen在我们的草莓采摘机器人实验室进行报道。*
-
 ## 近期媒体报道
 
 - **9月11日｜中国食品报：** [草莓采摘机器人与露地蔬菜大模型](https://www.cnfood.cn/article?id=2098331593848492033)
