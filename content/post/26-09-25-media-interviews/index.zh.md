@@ -14,6 +14,8 @@ image:
 
 <!--more-->
 
+![荷兰NOS Nieuwsuur驻华记者Laura van Megen在我们的草莓采摘机器人实验室进行报道](featured.jpg)
+
 *荷兰NOS Nieuwsuur驻华记者Laura van Megen在我们的草莓采摘机器人实验室进行报道。*
 
 ## 近期媒体报道
