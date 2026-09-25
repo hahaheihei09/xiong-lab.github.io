@@ -14,6 +14,8 @@ The coverage reflects growing public interest in how artificial intelligence and
 
 <!--more-->
 
+![NOS Nieuwsuur correspondent Laura van Megen reporting from our strawberry harvesting robot laboratory](featured.jpg)
+
 *NOS Nieuwsuur correspondent Laura van Megen reporting from our strawberry harvesting robot laboratory.*
 
 ## Recent Media Coverage
