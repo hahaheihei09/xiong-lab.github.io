@@ -47,6 +47,10 @@ title: 学术发表
 13. **Sun, M., Zhao, C., Yang, L., Liu, H., Hu, S. and Xiong, Y.** (2026) 'Vision-based early fault diagnosis and self-recovery for strawberry harvesting robots', *Artificial Intelligence in Agriculture*.  
     [DOI ↗](https://doi.org/10.1016/j.aiia.2026.05.009)
 
+14. **Yang, L., Hu, S., Sun, M. and Xiong, Y.** (2026) 'Harvesting Sequence Optimization for Clustered Strawberries Using a Fruit-Level Harvesting Difficulty Score', *Computers and Electronics in Agriculture*. 已接收，待正式发表。[接收新闻 ↗](../post/26-09-18-compag-harvesting-sequence/)
+
+15. **Zhu, T., Zhao, C., Miao, Z., Zhang, W. and Xiong, Y.** (2026) 'Six-DoF Strawberry Harvesting Pose Selection and Adaptive Obstacle Clearing in Occluded Environments', *Advanced Intelligent Systems*. 已接收，待正式发表。[接收新闻 ↗](../post/26-09-25-ais-paper/)
+
 ---
 
 ## 会议论文
@@ -88,5 +92,6 @@ title: 学术发表
 
 ---
 
-*最后更新：2026年7月*  
-*合计：13篇期刊论文 · 5篇会议论文 · 2篇预印本 · 3项美国专利*
+*最后更新：2026年9月*
+
+*合计：15篇期刊论文（含2篇已接收论文）· 5篇会议论文 · 2篇预印本 · 3项美国专利*

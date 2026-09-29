@@ -34,10 +34,14 @@ Compared with conventional manual scheduling, the cloud–edge–device coordina
 
 The trial demonstrated the system's stability in a real production environment. It also showed that low-cost digital scheduling can improve multi-machine coordination without changing how existing machinery is driven.
 
+![Members of our team at the Xinjiang field demonstration](xinjiang-field-team.jpg)
+
 ## Bringing Agricultural Foundation Models Closer to Open-Field Production
 
 During the event, the open-field vegetable foundation-model project team presented recent progress in applying artificial intelligence to machinery–agronomy adaptation, precise management of water, fertilizer, and pesticides, and intelligent agricultural equipment. **Professor Ya Xiong**, project leader and head of our research team, introduced the team's approach and results in using foundation models to support open-field vegetable production.
 
 The project's independently developed steady-state system for mounting multiple implements improved the consistency of tillage-depth and planting-depth control, helping crops maintain more uniform growth from the seedling stage through harvest. Related technologies increased fully automated transplanting rates to **over 90% for cabbage and over 95% for processing chili**. They also enabled unmanned harvesting of cabbage, white radish, and processing chili, reducing labor costs by approximately **CNY 400 per mu for cabbage** and **more than CNY 700 per mu for white radish**.
+
+![Professor Ya Xiong presents the team's open-field vegetable research at the conference](xinjiang-conference-presentation.jpg)
 
 For our team, the Xinjiang field trial was an important step in moving scheduling algorithms from controlled experiments into real agricultural production. We will continue studying multi-machine coordination, agricultural foundation models, and their integration with intelligent machinery to improve adaptability under complex operating conditions and deliver practical, lower-cost solutions for open-field vegetable production.
