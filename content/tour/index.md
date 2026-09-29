@@ -68,6 +68,86 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: Robot Arm Assembly
+        content: 'Assembling the robotic arms together in our lab.'
+        align: right
+        background:
+          image:
+            filename: tour-robot-arm-assembly.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
+      - title: Weeding Robot Data Collection
+        content: 'Collecting field data to improve our weeding robots.'
+        align: right
+        background:
+          image:
+            filename: tour-weeding-data-collection.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
+      - title: Evening Robot Tests
+        content: 'Testing the harvesting robots after dark.'
+        align: right
+        background:
+          image:
+            filename: tour-evening-robot-test.jpg
+            filters:
+              brightness: 0.8
+          position: center
+          color: '#333'
+      - title: Midyear Group Meeting
+        content: 'Sharing research progress and planning our next steps.'
+        align: right
+        background:
+          image:
+            filename: tour-midyear-group-meeting.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
+      - title: Student Outdoor Activity
+        content: 'Spending time together beyond the lab.'
+        align: right
+        background:
+          image:
+            filename: tour-student-outdoor-activity.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
+      - title: Student Dinner
+        content: 'A team dinner with our students.'
+        align: right
+        background:
+          image:
+            filename: tour-student-dinner.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
+      - title: Year-end Celebration
+        content: 'Celebrating the year together.'
+        align: right
+        background:
+          image:
+            filename: tour-year-end-party.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#333'
+      - title: Staff Dinner
+        content: 'Getting together with our colleagues.'
+        align: right
+        background:
+          image:
+            filename: tour-staff-dinner.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#333'
       - title: 
         content: 'The spraying robot runs automatically and can save 50% of labor in spraying!'
         align: left
