@@ -32,6 +32,9 @@ zh:
       - name: 学术发表
         url: publication
         weight: 50
+      - name: 招聘
+        url: recruitment
+        weight: 55
       - name: 联系我们
         url: contact
         weight: 60
