@@ -1,6 +1,5 @@
 ---
 title: Postdoctoral Opportunities
-date: 2026-11-17
 ---
 
 ## Join us: postdoctoral research in agricultural robotics
