@@ -10,11 +10,10 @@ The Strawberry Harvesting Robotics Group welcomes postdoctoral applications from
 
 - Robot vision, artificial intelligence, and foundation models for agriculture;
 - Mechanism design, motion planning, and control for harvesting and weeding robots;
-- Multi-machine coordination, field testing, and technology transfer.
 
 ### Who can apply
 
-Applicants should hold a PhD in robotics, AI, computer science, automation, mechanical engineering, or a related field; be able to conduct independent research and collaborate in a team; and be available for full-time postdoctoral research. Formal admission, appointment category, and assessment requirements follow the current BAAFS rules.
+Applicants should hold a PhD in robotics, AI, computer science, automation, mechanical engineering, or a related field; be able to conduct independent research and collaborate in a team; and be available for full-time postdoctoral research. We seek **highly motivated candidates** who are passionate about these research areas, want to solve real agricultural robotics challenges, and are eager to help bring research into practical use and commercialization. Formal admission, appointment category, and assessment requirements follow the current BAAFS rules.
 
 International applicants are welcome. For foreign nationals interested in Beijing's international postdoctoral recruitment funding, we particularly encourage candidates who are generally **under 35**, have a relevant science or engineering PhD, and graduated from a university in the **top 100** of a major global overall or subject ranking for the applicable year. Eligibility and how rankings apply are determined by the current Beijing funding rules and approval process.
 
